@@ -1,3 +1,6 @@
+// Programa que le tres notas de um aluno, caucula sua media aritimetica e exibe se ele foi reprovado,
+//aprovado ou ficou de recuperacao
+
 const n1 = 8;
 const n2 = 15;
 const n3 = 9;
