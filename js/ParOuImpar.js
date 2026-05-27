@@ -1,3 +1,4 @@
+// Programa que verifica se um numero é par, impar ou zero
 
 let nun = 0;
 
