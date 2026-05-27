@@ -1,3 +1,7 @@
+// Programa que utiliza duas funcoes, a funcao da media, que recebe uma lista como parametro, soma cada elemento e divide
+// pelo tamanho da lista, retorna a media.
+// e a funcao classificar que recebe a media define a media em aprovado, reprovado e recuperacao.
+
 function fazerMedia(notas){
     let soma = 0;
 
